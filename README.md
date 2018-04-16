@@ -1,2 +1,2 @@
 # BACI
-Codes used within WP5 of the BACI project
+Codes used within WP6 of the BACI project
